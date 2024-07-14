@@ -2,7 +2,7 @@
 The voice-activated KFC order assistant aims to streamline the process of placing orders at KFC drive-in locations using voice commands.
 
 
-##List of Installed Packages and Dependencies
+#List of Installed Packages and Dependencies
 
 Audio Playback and Recording:
 pip install playsound
@@ -31,7 +31,7 @@ GPT-2 model (provided by the transformers library)
 These installations cover the necessary tools for audio processing, speech recognition, text-to-speech conversion, web server setup, natural language processing, and data handling.
 
 
-##Run Your Application:
+#Run Your Application:
 Start the Flask API: python api.py
 Run the main application: python main.py
 
