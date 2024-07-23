@@ -20,6 +20,7 @@ pip install gtts
 ### Web Framework:
 ```bash
 pip install flask
+pip install streamlit
 ```
 
 ### Natural Language Processing:
