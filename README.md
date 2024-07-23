@@ -108,7 +108,25 @@ python api_server.py
 ```bash
 python main.py
 ```
-
 ## Summary
 
 The voice-activated KFC order assistant provides a seamless ordering experience through voice commands, leveraging natural language processing technologies.
+
+## Here are some screenshots of our project:
+
+<img width="1440" alt="Screenshot 2024-07-23 at 9 07 42 PM" src="https://github.com/user-attachments/assets/741161c7-eed1-4be0-b07b-935a815d34c4">
+
+
+
+
+<img width="1440" alt="Screenshot 2024-07-23 at 9 08 00 PM" src="https://github.com/user-attachments/assets/861a2137-e56a-4756-93ac-1ca175315989">
+
+
+
+
+<img width="1440" alt="Screenshot 2024-07-23 at 8 56 44 PM" src="https://github.com/user-attachments/assets/68e7d4d0-d521-4d51-9348-bfa699b65d77">
+
+
+
+
+<img width="1440" alt="Screenshot 2024-07-23 at 9 03 29 PM" src="https://github.com/user-attachments/assets/9d8dedf7-771e-431e-a3cc-f0ac50eda689">
